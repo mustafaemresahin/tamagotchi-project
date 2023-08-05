@@ -87,7 +87,7 @@ int main() {
 				}
 				else if(ans == 2) {
 					cout << "New pet created" << endl;
-					selection == 2;
+					selection = 2;
 					break;
 				}
 			}

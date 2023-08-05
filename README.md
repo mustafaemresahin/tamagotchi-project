@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Tamagotchi Project is a C++ program that brings the nostalgia of virtual pets to your computer. You can create, play with, feed, and take care of your virtual pets. The program provides a text-based interface for managing the well-being of your digital companions.
+Tamagotchi Project is a C++ program that you can create, play with, feed, and take care of your virtual pets. The program provides a text-based interface for managing the well-being of your digital companions.
 
 ## Features
 
